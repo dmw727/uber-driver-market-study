@@ -1,0 +1,23 @@
+label,rows,duplicate_trip_ids,numeric_parse_errors,negative_numeric_values,zero_fares,zero_fare_rate,pickup_matches,dropoff_matches,both_matches,unique_area_trips,neither_matches,date,group,cubs_home_game,note,missing_fares
+2026-04-06,7132,0,0,0,10,0.0014021312394840158,3558,4283,709,7132,0,2026-04-06,control,0,Cubs away at Tampa Bay Rays; requires weather and competing-event screen,8
+2026-04-13,6328,0,0,0,17,0.002686472819216182,3028,3805,505,6328,0,2026-04-13,control,0,Cubs away at Philadelphia Phillies; requires weather and competing-event screen,4
+2026-04-20,9329,0,0,0,42,0.004502090256190374,4619,5393,683,9329,0,2026-04-20,event,1,Cubs home game vs Philadelphia Phillies; UTC start 2026-04-20T23:40:00Z,13
+2026-04-27,6709,0,0,0,36,0.005365926367565956,3357,4071,719,6709,0,2026-04-27,control,0,Cubs away at San Diego Padres; requires weather and competing-event screen,3
+2026-05-04,10013,0,0,0,19,0.0018975332068311196,5039,5730,756,10013,0,2026-05-04,event,1,Cubs home game vs Cincinnati Reds; UTC start 2026-05-04T23:10:00Z,31
+2026-05-11,6403,0,0,0,15,0.002342651881930345,3093,3847,537,6403,0,2026-05-11,control,0,Cubs away or not scheduled; requires weather and competing-event screen,1
+2026-05-18,10355,0,0,0,15,0.0014485755673587638,5035,5868,548,10355,0,2026-05-18,event,1,Cubs home game vs Milwaukee Brewers; UTC start 2026-05-18T23:40:00Z,8
+2026-05-25,8203,0,0,0,9,0.001097159575764964,3940,4835,572,8203,0,2026-05-25,control,0,Cubs away at Pittsburgh Pirates; requires weather and competing-event screen,3
+2026-06-01,6375,0,0,0,11,0.0017254901960784314,3165,3685,475,6375,0,2026-06-01,control,0,Cubs away or not scheduled; requires weather and competing-event screen,131
+2026-06-08,6653,0,0,0,13,0.0019540057117090033,3223,3991,561,6653,0,2026-06-08,control,0,Cubs away or not scheduled; requires weather and competing-event screen,3
+2026-06-15,9366,0,0,0,9,0.0009609224855861628,4441,5431,506,9366,0,2026-06-15,event,1,Cubs home game vs Colorado Rockies; UTC start 2026-06-16T00:05:00Z,6
+2026-06-22,6081,0,0,0,6,0.000986679822397632,2962,3559,440,6081,0,2026-06-22,control,0,Cubs away at New York Mets; requires weather and competing-event screen,0
+2026-06-29,9958,0,0,0,7,0.0007029524000803374,4907,5627,576,9958,0,2026-06-29,event,1,Cubs home game vs San Diego Padres; UTC start 2026-06-30T00:05:00Z,0
+2026-07-06,7059,0,0,0,14,0.0019832837512395525,3519,4114,574,7059,0,2026-07-06,control,0,Cubs away or not scheduled; requires weather and competing-event screen,1
+2026-07-13,6939,0,0,0,23,0.0033145986453379447,3397,3999,457,6939,0,2026-07-13,control,0,Cubs away or not scheduled; requires weather and competing-event screen,5
+2026-07-20,9618,0,0,0,25,0.0025992929923060928,4530,5599,511,9618,0,2026-07-20,event,1,Cubs home game vs Detroit Tigers; UTC start 2026-07-21T00:05:00Z,4
+2026-07-27,5958,0,0,0,10,0.0016784155756965425,2822,3571,435,5958,0,2026-07-27,control,0,Cubs away at St. Louis Cardinals; requires weather and competing-event screen,2
+2026-08-03,9672,0,0,0,31,0.003205128205128205,4828,5320,476,9672,0,2026-08-03,event,1,Cubs home game vs Los Angeles Dodgers; UTC start 2026-08-04T00:05:00Z,5
+2026-08-10,5998,0,0,0,29,0.004834944981660554,2987,3483,472,5998,0,2026-08-10,control,0,Cubs away or not scheduled; requires weather and competing-event screen,1
+2026-08-17,10190,0,0,0,39,0.003827281648675172,4713,6028,551,10190,0,2026-08-17,event,1,Cubs home game vs Chicago White Sox; UTC start 2026-08-18T00:05:00Z,8
+2026-08-24,5195,0,0,0,40,0.007699711260827719,2428,3142,375,5195,0,2026-08-24,control,0,Cubs away at Arizona Diamondbacks; requires weather and competing-event screen,4
+2026-08-31,8944,0,0,0,864,0.09660107334525939,4396,5236,688,8944,0,2026-08-31,event,1,Cubs home game vs Milwaukee Brewers; UTC start 2026-08-31T23:40:00Z,3

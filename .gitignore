@@ -1,0 +1,15 @@
+# Original survey exports contain submission metadata and stay private.
+private/
+
+# Generated local files
+.venv/
+.deps/
+.duckdb/
+.chart_deps/
+chart_runtime/
+__pycache__/
+*.pyc
+data/cache/
+data/metadata/nyc_taxi_zones/
+data/metadata/*.zip
+

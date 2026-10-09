@@ -1,0 +1,5 @@
+scenario,dates,event_dates,control_dates,mean_event_volume,mean_control_volume,relative_difference,bootstrap_ci_low,bootstrap_ci_high
+All published Mondays,22,9,13,9716.1,6541.0,0.4854,0.3922,0.5853
+Non-weather-stress Mondays,15,8,7,9679.0,6635.4,0.4587,0.3147,0.6216
+Non-weather and non-holiday Mondays,13,8,5,9679.0,6237.2,0.5518,0.4202,0.7143
+Exclude Aug 31 volume anomaly date,21,8,13,9812.6,6541.0,0.5002,0.4093,0.6002

@@ -1,0 +1,15 @@
+date,group,direction,window_local,community_area,trips,median_fare,median_trip_seconds,median_trip_miles,zero_fare_trips,matching_rows_exported,note
+2026-07-06,control,pickup,16:00-23:59,6,3519,10.0,818.0,3.6,10,7059,Cubs not scheduled; candidate control
+2026-07-06,control,dropoff,16:00-23:59,6,4114,10.0,872.5,4.0,6,7059,Cubs not scheduled; candidate control
+2026-07-27,control,pickup,16:00-23:59,6,2822,10.0,821.5,3.6,6,5958,Cubs at Cardinals; candidate control
+2026-07-27,control,dropoff,16:00-23:59,6,3571,10.0,896.0,4.2,4,5958,Cubs at Cardinals; candidate control
+2026-08-03,event,pickup,16:00-23:59,6,4828,12.5,1061.0,4.8,21,9672,Cubs vs Dodgers; 7:05 PM CT
+2026-08-03,event,dropoff,16:00-23:59,6,5320,12.5,1201.5,4.7,20,9672,Cubs vs Dodgers; 7:05 PM CT
+2026-08-10,control,pickup,16:00-23:59,6,2987,7.5,818.0,3.7,16,5998,Cubs not scheduled; candidate control
+2026-08-10,control,dropoff,16:00-23:59,6,3483,10.0,843.0,4.1,15,5998,Cubs not scheduled; candidate control
+2026-08-17,event,pickup,16:00-23:59,6,4713,12.5,1031.0,4.5,23,10190,Cubs vs White Sox; 7:05 PM CT
+2026-08-17,event,dropoff,16:00-23:59,6,6028,12.5,1304.0,4.6,28,10190,Cubs vs White Sox; 7:05 PM CT
+2026-08-24,control,pickup,16:00-23:59,6,2428,10.0,825.0,3.7,21,5195,Cubs at Diamondbacks; candidate control
+2026-08-24,control,dropoff,16:00-23:59,6,3142,10.0,884.5,4.3,27,5195,Cubs at Diamondbacks; candidate control
+2026-08-31,event,pickup,16:00-23:59,6,4396,10.0,919.0,4.0,538,8944,Cubs vs Brewers; 6:40 PM CT
+2026-08-31,event,dropoff,16:00-23:59,6,5236,10.0,1081.0,4.1,399,8944,Cubs vs Brewers; 6:40 PM CT

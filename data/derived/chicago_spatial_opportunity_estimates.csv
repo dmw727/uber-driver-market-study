@@ -1,0 +1,4 @@
+zone,community_areas,clean_event_dates,clean_control_dates,event_median_pickups_per_area,control_median_pickups_per_area,pickup_demand_uplift,event_median_minutes_per_mile,control_median_minutes_per_mile,congestion_friction_change,event_median_fare_per_minute,control_median_fare_per_minute,occupied_fare_rate_change,demand_to_friction_change
+core,1,8,7,4666.0,3165.0,0.4742,3.841,4.093,-0.0614,0.792,0.7708,0.0275,0.5708
+inner_ring,3,8,7,1693.0,1609.0,0.0522,4.304,4.184,0.0287,0.7126,0.7749,-0.0804,0.0229
+outer_ring,7,8,7,2628.72,2519.86,0.0432,4.421,4.259,0.0382,0.7881,0.8182,-0.0368,0.0049

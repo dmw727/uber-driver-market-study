@@ -1,0 +1,17 @@
+phase,corridor,matched_segment_intervals,median_event_speed_mph,median_control_speed_mph,median_speed_change,mean_speed_change,median_delay_minutes_per_segment,mean_delay_minutes_per_segment,share_slower_than_control
+extended_postgame,approach_ring_inbound,464,23.0,23.0,0.0,0.0159,0.0,-0.002,0.4009
+extended_postgame,approach_ring_outbound,472,23.0,23.0,0.0,0.0256,0.0,-0.009,0.3919
+extended_postgame,core_access_inbound,52,21.5,23.0,0.0,-0.0046,0.0,0.03,0.4423
+extended_postgame,core_access_outbound,60,22.0,20.5,0.0,0.0156,0.0,0.014,0.3
+game_first_2h,approach_ring_inbound,1251,21.0,21.0,0.0,0.0156,0.0,0.014,0.3933
+game_first_2h,approach_ring_outbound,1277,21.0,20.5,0.0,0.0319,0.0,0.006,0.3665
+game_first_2h,core_access_inbound,145,20.0,20.0,0.0,-0.019,0.0,0.056,0.4483
+game_first_2h,core_access_outbound,173,22.0,20.0,0.0,0.0553,0.0,-0.053,0.3121
+game_late_post_2h,approach_ring_inbound,1017,22.0,22.0,0.0,0.0193,0.0,-0.001,0.3904
+game_late_post_2h,approach_ring_outbound,1049,22.0,22.0,0.0,0.0223,0.0,0.003,0.4032
+game_late_post_2h,core_access_inbound,121,21.0,22.0,0.0,-0.0102,0.0,0.035,0.3967
+game_late_post_2h,core_access_outbound,152,22.0,21.0,0.0,0.0132,0.0,0.007,0.4013
+pregame_2h,approach_ring_inbound,1462,20.0,20.0,0.0,0.0008,0.0,0.071,0.4453
+pregame_2h,approach_ring_outbound,1385,20.0,20.0,0.0,0.018,0.0,0.017,0.4108
+pregame_2h,core_access_inbound,165,20.0,20.0,0.0,-0.0142,0.0,0.07,0.4121
+pregame_2h,core_access_outbound,183,21.0,20.0,0.0,0.0197,0.0,-0.002,0.377

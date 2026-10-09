@@ -1,0 +1,223 @@
+{
+  "checked_at_utc": "2026-10-06T00:50:02.472956+00:00",
+  "dataset_id": "8bbv-3wbe",
+  "dataset_name": "Transportation Network Providers - Trips (2026)",
+  "rows_updated_at_unix": 1790196799,
+  "schema": [
+    "trip_id",
+    "trip_start_timestamp",
+    "trip_end_timestamp",
+    "trip_seconds",
+    "trip_miles",
+    "percent_time_chicago",
+    "percent_distance_chicago",
+    "pickup_census_tract",
+    "dropoff_census_tract",
+    "pickup_community_area",
+    "dropoff_community_area",
+    "fare",
+    "tip",
+    "additional_charges",
+    "trip_total",
+    "shared_trip_authorized",
+    "shared_trip_match",
+    "trips_pooled",
+    "pickup_centroid_latitude",
+    "pickup_centroid_longitude",
+    "pickup_centroid_location",
+    "dropoff_centroid_latitude",
+    "dropoff_centroid_longitude",
+    "dropoff_centroid_location"
+  ],
+  "missing_required_fields": [],
+  "row_count": null,
+  "earliest_trip_start": "2026-01-01T00:00:00.000",
+  "latest_trip_start": "2026-08-31T23:45:00.000",
+  "validation_warnings": [],
+  "sample_rows": [
+    {
+      "trip_id": "ff500e979cb7a483a47c60c036907fdd7019933e",
+      "trip_start_timestamp": "2026-08-31T23:45:00.000",
+      "trip_end_timestamp": "2026-09-01T00:00:00.000",
+      "trip_seconds": "334",
+      "trip_miles": "1.05",
+      "percent_time_chicago": "0.997",
+      "percent_distance_chicago": "1",
+      "pickup_community_area": "43",
+      "dropoff_community_area": "43",
+      "fare": "5",
+      "tip": "0",
+      "additional_charges": "5.36",
+      "trip_total": "10.36",
+      "shared_trip_authorized": false,
+      "shared_trip_match": false,
+      "trips_pooled": "1",
+      "pickup_centroid_latitude": "41.7615779081",
+      "pickup_centroid_longitude": "-87.5727819867",
+      "pickup_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.5727819867,
+          41.7615779081
+        ]
+      },
+      "dropoff_centroid_latitude": "41.7615779081",
+      "dropoff_centroid_longitude": "-87.5727819867",
+      "dropoff_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.5727819867,
+          41.7615779081
+        ]
+      }
+    },
+    {
+      "trip_id": "fe17a2f5679dcc72e07b487a192370493255b94d",
+      "trip_start_timestamp": "2026-08-31T23:45:00.000",
+      "trip_end_timestamp": "2026-08-31T23:45:00.000",
+      "trip_seconds": "307",
+      "trip_miles": "1.1",
+      "percent_time_chicago": "0.9967",
+      "percent_distance_chicago": "0.99536",
+      "pickup_census_tract": "17031062200",
+      "dropoff_census_tract": "17031063400",
+      "pickup_community_area": "6",
+      "dropoff_community_area": "6",
+      "fare": "5",
+      "tip": "0",
+      "additional_charges": "4.66",
+      "trip_total": "9.66",
+      "shared_trip_authorized": false,
+      "shared_trip_match": false,
+      "trips_pooled": "1",
+      "pickup_centroid_latitude": "41.9425851797",
+      "pickup_centroid_longitude": "-87.6566440918",
+      "pickup_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.6566440918,
+          41.9425851797
+        ]
+      },
+      "dropoff_centroid_latitude": "41.9346591566",
+      "dropoff_centroid_longitude": "-87.6467297286",
+      "dropoff_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.6467297286,
+          41.9346591566
+        ]
+      }
+    },
+    {
+      "trip_id": "fd4fc1dab0d5422d945f67198cb825831fc94d09",
+      "trip_start_timestamp": "2026-08-31T23:45:00.000",
+      "trip_end_timestamp": "2026-08-31T23:45:00.000",
+      "trip_seconds": "545",
+      "trip_miles": "3.84",
+      "percent_time_chicago": "0.9706",
+      "percent_distance_chicago": "1.01",
+      "pickup_census_tract": "17031062200",
+      "dropoff_census_tract": "17031080100",
+      "pickup_community_area": "6",
+      "dropoff_community_area": "8",
+      "fare": "0",
+      "tip": "0",
+      "additional_charges": "0",
+      "trip_total": "0",
+      "shared_trip_authorized": false,
+      "shared_trip_match": false,
+      "trips_pooled": "1",
+      "pickup_centroid_latitude": "41.9425851797",
+      "pickup_centroid_longitude": "-87.6566440918",
+      "pickup_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.6566440918,
+          41.9425851797
+        ]
+      },
+      "dropoff_centroid_latitude": "41.9075200747",
+      "dropoff_centroid_longitude": "-87.6266589003",
+      "dropoff_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.6266589003,
+          41.9075200747
+        ]
+      }
+    },
+    {
+      "trip_id": "fd1454cffa183a96ab039297e4b30579b9cdddf1",
+      "trip_start_timestamp": "2026-08-31T23:45:00.000",
+      "trip_end_timestamp": "2026-09-01T00:00:00.000",
+      "trip_seconds": "920",
+      "trip_miles": "8.05",
+      "percent_time_chicago": "0.9978",
+      "percent_distance_chicago": "1",
+      "pickup_community_area": "33",
+      "dropoff_community_area": "67",
+      "fare": "2.5",
+      "tip": "0",
+      "additional_charges": "15.06",
+      "trip_total": "17.560000000000002",
+      "shared_trip_authorized": false,
+      "shared_trip_match": false,
+      "trips_pooled": "1",
+      "pickup_centroid_latitude": "41.8571838585",
+      "pickup_centroid_longitude": "-87.6203346241",
+      "pickup_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.6203346241,
+          41.8571838585
+        ]
+      },
+      "dropoff_centroid_latitude": "41.7759288274",
+      "dropoff_centroid_longitude": "-87.6665962653",
+      "dropoff_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.6665962653,
+          41.7759288274
+        ]
+      }
+    },
+    {
+      "trip_id": "faad8965ee654a85714a6bd60ed2c2f2ef34a217",
+      "trip_start_timestamp": "2026-08-31T23:45:00.000",
+      "trip_end_timestamp": "2026-08-31T23:45:00.000",
+      "trip_seconds": "284",
+      "trip_miles": "0.93",
+      "percent_time_chicago": "0.9859",
+      "percent_distance_chicago": "0.9724",
+      "pickup_community_area": "30",
+      "dropoff_community_area": "30",
+      "fare": "2.5",
+      "tip": "0",
+      "additional_charges": "4.01",
+      "trip_total": "6.51",
+      "shared_trip_authorized": false,
+      "shared_trip_match": false,
+      "trips_pooled": "1",
+      "pickup_centroid_latitude": "41.8390869059",
+      "pickup_centroid_longitude": "-87.714003807",
+      "pickup_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.714003807,
+          41.8390869059
+        ]
+      },
+      "dropoff_centroid_latitude": "41.8390869059",
+      "dropoff_centroid_longitude": "-87.714003807",
+      "dropoff_centroid_location": {
+        "type": "Point",
+        "coordinates": [
+          -87.714003807,
+          41.8390869059
+        ]
+      }
+    }
+  ]
+}

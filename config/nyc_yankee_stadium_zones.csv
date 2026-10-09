@@ -1,0 +1,26 @@
+location_id,borough,zone,zone_group,distance_to_core_feet,boundary_source
+247,Bronx,West Concourse,core,0.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+69,Bronx,East Concourse/Concourse Village,one_mile_ring,0.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+119,Bronx,Highbridge,one_mile_ring,0.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+168,Bronx,Mott Haven/Port Morris,one_mile_ring,0.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+169,Bronx,Mount Hope,one_mile_ring,0.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+235,Bronx,University Heights/Morris Heights,one_mile_ring,0.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+42,Manhattan,Central Harlem North,one_mile_ring,395.7,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+74,Manhattan,East Harlem North,one_mile_ring,398.2,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+159,Bronx,Melrose South,one_mile_ring,465.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+116,Manhattan,Hamilton Heights,one_mile_ring,1643.5,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+167,Bronx,Morrisania/Melrose,one_mile_ring,1807.2,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+47,Bronx,Claremont/Bathgate,one_mile_ring,1929.4,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+120,Manhattan,Highbridge Park,one_mile_ring,2113.5,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+244,Manhattan,Washington Heights South,one_mile_ring,2180.7,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+243,Manhattan,Washington Heights North,one_mile_ring,3474.5,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+41,Manhattan,Central Harlem,one_mile_ring,3640.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+59,Bronx,Crotona Park,one_mile_ring,3648.2,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+152,Manhattan,Manhattanville,one_mile_ring,3767.4,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+127,Manhattan,Inwood,one_mile_ring,4086.8,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+194,Manhattan,Randalls Island,one_mile_ring,4322.0,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+78,Bronx,East Tremont,one_mile_ring,4538.7,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+136,Bronx,Kingsbridge Heights,one_mile_ring,4818.6,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+94,Bronx,Fordham South,one_mile_ring,4824.5,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+60,Bronx,Crotona Park East,one_mile_ring,4894.8,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip
+147,Bronx,Longwood,one_mile_ring,5156.9,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zones.zip

@@ -1,0 +1,7 @@
+date,group,matched_pair,event_start_local,note,schedule_source
+2025-04-07,control,1,2025-04-07T19:05:00,Yankees away; matched Monday control for April 14,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-07&endDate=2025-04-16
+2025-04-08,control,2,2025-04-08T19:05:00,Yankees away; matched Tuesday control for April 15,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-07&endDate=2025-04-16
+2025-04-09,control,3,2025-04-09T19:05:00,Yankees away; matched Wednesday control for April 16,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-07&endDate=2025-04-16
+2025-04-14,event,1,2025-04-14T19:05:00,Yankees home vs Kansas City Royals,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-07&endDate=2025-04-16
+2025-04-15,event,2,2025-04-15T19:05:00,Yankees home vs Kansas City Royals,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-07&endDate=2025-04-16
+2025-04-16,event,3,2025-04-16T19:05:00,Yankees home vs Kansas City Royals,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-07&endDate=2025-04-16

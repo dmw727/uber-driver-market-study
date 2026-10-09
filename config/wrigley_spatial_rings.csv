@@ -1,0 +1,12 @@
+community_area,community_name,ring_distance,zone,boundary_source
+6,LAKE VIEW,0,core,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+3,UPTOWN,1,inner_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+5,NORTH CENTER,1,inner_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+7,LINCOLN PARK,1,inner_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+4,LINCOLN SQUARE,2,outer_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+8,NEAR NORTH SIDE,2,outer_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+16,IRVING PARK,2,outer_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+21,AVONDALE,2,outer_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+22,LOGAN SQUARE,2,outer_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+24,WEST TOWN,2,outer_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100
+77,EDGEWATER,2,outer_ring,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=100

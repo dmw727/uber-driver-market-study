@@ -1,0 +1,5 @@
+strategy,event_dates,control_dates,event_median_trips,control_median_trips,trip_volume_change,implied_event_pay_premium,implied_event_passenger_fare_premium,event_median_cycle_minutes,control_median_cycle_minutes,cycle_time_change,event_two_hour_cycle_capacity,control_two_hour_cycle_capacity,event_two_hour_gross_capacity_proxy,control_two_hour_gross_capacity_proxy
+stadium_bound,3,9,289.0,200.0,0.445,0.0025,-0.0389,18.483,17.092,0.0814,6.49,7.02,76.12,75.07
+spillover_local,3,9,3191.0,3246.0,-0.0169,-0.0038,-0.0423,15.917,16.583,-0.0402,7.54,7.24,76.89,76.34
+spillover_away,3,9,2301.0,2423.0,-0.0504,0.0001,-0.0282,23.85,25.7,-0.072,5.03,4.67,98.1,94.48
+core_departure,3,9,284.0,310.0,-0.0839,-0.0027,-0.0487,19.8,18.75,0.056,6.06,6.4,79.76,78.92

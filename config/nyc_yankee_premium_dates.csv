@@ -1,0 +1,13 @@
+date,group,event_start_local,note,schedule_source
+2025-04-07,control,2025-04-07T19:05:00,Yankees away at Detroit,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-08,control,2025-04-08T19:05:00,Yankees away at Detroit,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-09,control,2025-04-09T19:05:00,Yankees away at Detroit,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-14,event,2025-04-14T19:05:00,Yankees home vs Kansas City,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-15,event,2025-04-15T19:05:00,Yankees home vs Kansas City,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-16,event,2025-04-16T19:05:00,Yankees home vs Kansas City,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-21,control,2025-04-21T19:05:00,Yankees away at Cleveland,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-22,control,2025-04-22T19:05:00,Yankees away at Cleveland,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-23,control,2025-04-23T19:05:00,Yankees away at Cleveland,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-28,control,2025-04-28T19:05:00,Yankees away at Baltimore,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-29,control,2025-04-29T19:05:00,Yankees away at Baltimore,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30
+2025-04-30,control,2025-04-30T19:05:00,Yankees away at Baltimore,https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2025-04-01&endDate=2025-04-30

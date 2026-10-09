@@ -1,0 +1,7 @@
+zone_group,phase,matched_pairs,median_trip_volume_change,median_approach_time_change,median_pickup_wait_change,median_occupied_pay_rate_change,median_cycle_pay_rate_change,median_overhead_share_point_change
+core,pregame_2h,3,0.0146,0.0183,0.1324,0.0205,0.0009,-0.0078
+core,game_first_2h,3,0.1877,0.1628,-0.237,0.0772,0.0861,-0.0049
+core,game_late_post_2h,3,1.6295,0.9703,-0.3721,0.2465,0.2144,-0.0017
+one_mile_ring,pregame_2h,3,-0.0282,-0.0404,-0.0233,0.0177,0.0069,-0.0103
+one_mile_ring,game_first_2h,3,0.0258,-0.0123,0.0203,0.0106,0.0212,-0.0023
+one_mile_ring,game_late_post_2h,3,0.0954,0.1737,-0.0943,0.0049,-0.0158,0.0144

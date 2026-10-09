@@ -1,0 +1,5 @@
+phase,event_dates,median_excess_pickups,median_excess_dropoffs,median_excess_engaged_vehicle_bin_equivalents,median_observed_bins
+pregame_2h,8,81.5,1242.0,140.2,8.0
+game_first_2h,8,91.0,49.0,142.5,8.0
+game_late_post_2h,8,877.5,-134.5,1288.2,8.0
+extended_postgame,8,358.0,21.0,697.9,3.0
